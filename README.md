@@ -2,7 +2,7 @@ This is a fork of hollowstrawberry/kohya-colab.
 
 This version installs the venv environment and other components on Google Drive to reduce startup time.
 
-Only Lora_Trainer_XL.ipynb has been modified.
+Only Lora_Trainer_XL.ipynb (=Only English-SDXL version) has been modified.
 
 # Kohya Colabs
 

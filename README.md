@@ -2,6 +2,8 @@ This is a fork of hollowstrawberry/kohya-colab.
 
 This version installs the venv environment and other components on Google Drive to reduce startup time.
 
+Only Lora_Trainer_XL.ipynb has been modified.
+
 # Kohya Colabs
 
 Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of [kohya-ss](https://github.com/kohya-ss/sd-scripts) and [Linaqruf](https://github.com/Linaqruf/kohya-trainer).
